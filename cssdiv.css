@@ -1,0 +1,30 @@
+@charset "utf-8";
+/* CSS Document */
+
+
+#logo { margin-left:40%}
+
+#tabla {width:100%; height:200px; border:groove; color:#309;}
+
+
+td { border:double; width:20%; height:25%; text-align:center; text-decoration:blink}
+
+#nokias { width:500px; height:500px; color:#F60}
+
+
+#textos { width:100%; height:50px; background-color:#60F;}
+
+#contenidor { width:80%; margin-left:10%; height:170px; background-color:transparent; text-align: justify; margin-bottom:10px; margin-top:5px}
+
+#contenido { width:100%; height:420px; background-color:#60F; text-align:center}
+   
+#general { width:25%; height:360px;background-color:#03C; float:left; margin-bottom:0px; text-align:center}
+   
+#tamaño { width:25%; height:360px;background-color:#39F; float:left;  margin-bottom:0px; text-align:center}
+   
+ #display { width:25%; height:360px;background-color:#06F; float:left;  margin-bottom:0px; text-align:center}
+    
+#memoria { width:25%; height:360px;background-color:#03F; float:left;  text-align:center; margin-bottom:0px}
+     
+
+#lista { width:90%; margin-left:5%}
